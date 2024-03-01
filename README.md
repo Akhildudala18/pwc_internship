@@ -1,9 +1,76 @@
-PWC-Virtual-internship---Power-BI
+# PWC-Virtual-internship---Power-BI
+***
 
-Here is the background information on your task The digital revolution and our fast-changing world requires a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence and creativity to fully participate in the digital future workplace — and it needs to start now.
 
-At PwC, we are working with other organisations across the world, building on our work with clients and on upskilling our 276,000 people. Still, more must be done if we are to ensure everyone has the opportunity to learn, work and participate in the digital world. This is at the heart of our purpose.
+## # Call Center Analysis
+***
 
-We are enabling employees who are motivated to further accelerate their skills to do so by offering them a “career pivot” to become what we call “Digital Accelerators”. Accelerators rapidly deepen their skills in digital specialties, such as data, automation, AI, and digital storytelling by learning a variety of self-service tools and coding languages and applying these skills across our business.
 
-We're happy you joined us, welcome to the team! Giulia is your manager and helps you through your upskilling journey in PowerBI - your step to become a true data jedi and Digital Accelerator. But wait no more, word spreads fast and an important client reached out to you to help him visualising their data.
+### Problem Statement
+
+***
+* Problem: The manager at PhoneNow (a big telecom company) is seeking transparency and insight into the Call Center dataset to gain an accurate overview of long-term customer and agent behavior trends.
+
+* Objective: The purpose of this analysis is to create a dashboard in Power BI for Call Center Manager that reflects all relevant Key Performance Indicators (KPIs) and metrics to:
+
+    * Self-exploratory call trends
+
+    * Overview of the agent’s performance and behaviors
+
+    * Overview the customer satisfaction
+
+    * Contain many metrics and plots related to a single area of business for discussing with higher managers and generating further analysis.
+
+    * Allows for minimal interaction
+
+* Possible KPIs include (but are not limited to):
+
+    * Overall customer satisfaction
+
+    * Overall calls answered/abandoned
+
+    * Calls by time
+
+    * Average speed of answer
+
+    * Agents performance quadrant -> average handle time(talk duration) vs calls answered
+
+***
+
+
+### Analysis and Insights
+
+The purpose of this dashboard is to serve as self-exploratory for managers, but I still note some highlighted points that I recognize below:
+
+
+**About Call trends:**
+
+* Customers tend to call more between 5:00 pm - 5:30 pm at 250 calls received with an abandoned rate is 18.40% (approximately to the average abandoned rate) and distributed mainly in the middle of the month
+
+* The highest abandoned rate is 28.03% between 1:00 pm - 1:30 pm
+
+* Customers have more problems with Streaming service
+
+* The resolved rate is at a high rate (89,94%)
+
+**About performance of agents:**
+
+* The agent who satisfies customers most is Becky with a 12.02% of “Very good” rating
+
+* The agent who has the highest resolved rate is Jim and he is effective with solving problems related to “Contract related” and “Admin Support”
+
+**About customer satisfaction:**
+
+* The average customer satisfaction is at an acceptable rate with 3.40, mainly comes from “Average” (30.04%) and “Good” (29.11%) rating
+
+* The correlation between call answered and call resolved is strongly positive which resulted in a increase in the customer satisfaction rate
+
+
+
+
+
+
+
+     
+
+
