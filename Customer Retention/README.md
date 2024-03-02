@@ -98,11 +98,10 @@ After the dataset was cleaned and transformed, it was ready to be modeled.
 # Data Visualization
 Data visualization for the datasets was done in Microsoft Power BI Desktop, the dashboard includes 3 main dashboards and 5 tooltip pages
 
+- **Churn Profile**
+
 - **Customer Profile**
 
-- **EDA Churn Profile**
-
-- **Churn Predictive Model Comparison**
 
 
 ## Dashboard type
