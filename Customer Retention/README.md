@@ -1,13 +1,13 @@
-# Customer Retention | Pwc Switzerland Power BI Virtual Case Experience
+# Customer Retention 
 
 ## Table of contents
-- [Problem Statement](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%203%3A%20Customer%20Retention#Problem-Statement)
-- [Data Sourcing](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%203%3A%20Customer%20Retention#Data-Sourcing)
-- [Data Preparation](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%203%3A%20Customer%20Retention#Data-Preparation)
-- [Data Modeling](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%203%3A%20Customer%20Retention#Data-Modeling)
-- [Data Visualization](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%203%3A%20Customer%20Retention#Data-Visualization)
-- [Analysis and Insights](https://github.com/calmk/PWC-Virtual-Case-Experience/tree/main/Task%203%3A%20Customer%20Retention#Analysis-and-Insights)
-
+- [Problem Statement]
+- [Data Sourcing]
+- [Data Preparation]
+- [Data Modeling]
+- [Data Visualization]
+- [Analysis and Insights]
+  
 # Problem Statement
 
 - **Problem:** Churning customers using PhoneNow services were got in touch after they terminated the contract, and the Customer Retention manager wants to understand their customer profile and insights with a focus on retaining customers as well as approaching in advance who is at risk.
@@ -85,7 +85,6 @@ A new table named `modified` was created by duplicating the `Churn dataset` 
     - `Table.ReplaceValue(#"Renamed Columns","No internet service","No",Replacer.ReplaceText,{"OnlineSecurity", "OnlineBackup", "DeviceProtection", "TechSupport", "StreamingTV", "StreamingMovies"})`
     - `Table.Unpivot(#"Reordered Columns", {"PhoneService", "MultipleLines", "Internet", "OnlineSecurity", "OnlineBackup", "DeviceProtection", "TechSupport", "StreamingTV", "StreamingMovies"}, "Attribute", "Value.1")`
 
-Besides that, I run Python Scripting in PowerQuery to conduct predictive analysis throughout three more tables named `Model Evaluation`, `Weight`, `Probability`. You can take a glance at it in my [jupyter notebook](https://github.com/calmk/PWC-Virtual-Case-Experience/blob/main/Task%203%3A%20Customer%20Retention/Churn%20Prediction.ipynb)
 
 # Data Modeling
 
