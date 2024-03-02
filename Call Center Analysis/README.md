@@ -65,6 +65,8 @@ The purpose of this dashboard is to serve as self-exploratory for managers, but 
 
 * The correlation between call answered and call resolved is strongly positive which resulted in a increase in the customer satisfaction rate
 
+![2024-02-29 (3)](https://github.com/Akhildudala18/pwc_internship/assets/122172355/56a3fdd1-9428-43ae-862f-0ab87a3803b3)
+
 
 
 
