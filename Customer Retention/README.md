@@ -101,6 +101,8 @@ Data visualization for the datasets was done in Microsoft Power BI Desktop, the 
 - **Churn Profile**
 
 - **Customer Profile**
+![2024-03-02 (4)](https://github.com/Akhildudala18/pwc_internship/assets/122172355/65556ecb-0588-45d1-ad58-9b33a582d22c)
+![2024-03-02 (5)](https://github.com/Akhildudala18/pwc_internship/assets/122172355/25cc3a48-a564-41e3-91c6-07e1b766542c)
 
 
 
@@ -130,8 +132,13 @@ Target audience: **Customer** **Retention Manager**
 
 
 # Analysis and Insights
-![2024-03-02 (3)](https://github.com/Akhildudala18/pwc_internship/assets/122172355/4766a601-7c17-49b3-86f0-f0426125e384)
-![2024-03-02 (4)](https://github.com/Akhildudala18/pwc_internship/assets/122172355/65556ecb-0588-45d1-ad58-9b33a582d22c)
-![2024-03-02 (5)](https://github.com/Akhildudala18/pwc_internship/assets/122172355/25cc3a48-a564-41e3-91c6-07e1b766542c)
+The purpose of this dashboard is to serve as self-exploratory for managers, but I still note some highlighted points that I recognize below:
+
+- Month-to-Month contracts, lack of online security and tech support, and issues with Fiber Optic service are some of the reasons for customer churn.
+- Only 16% of the customers are senior citizens, with almost double the churn rate compared to younger customers.
+- The customers have varying contract lengths, with a lot of them only staying for a month and some for up to 72 months.
+- Customers taking longer contracts tend to be more loyal and stay with the company for a longer period of time.
+- Customers are more likely to churn when the monthly charges are high, and there is a higher chance of churn when the total charges are lower.
+
 
 
